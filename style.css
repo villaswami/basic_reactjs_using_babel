@@ -1,0 +1,9 @@
+.person{
+    border:1px solid white;
+    box-shadow: 0 2px 2px gray;
+    width: 200px;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px;
+    
+}
